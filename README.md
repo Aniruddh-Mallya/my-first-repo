@@ -1,28 +1,26 @@
-# This is a large heading
+# BREAKING NEWS
 
-### This is a smaller heading
+## Coronavirus Live Updates ####(17/04/2020 00:27:51)
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+The number of **confirmed** cases:*22,04,511*
+The number of **recovered** cases:*5,60,980*
+The number of **Deaths** cases:*1,49,378*
 
-- This is
-- an unordered
-- list
+**Coronavirus** disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.
 
-1. This is
-2. an ordered
-3. list
+Most people who fall sick with COVID-19 will experience mild to moderate symptoms and recover without special treatment.
 
-Here is `some code` in the middle of a sentence.
 
-```
-This is
-a block
-of code
-```
+'Some Precautionary Measures'
 
-Press this link: [see more](https://www.nih.gov/news-events/news-releases/nih-clinical-trial-remdesivir-treat-covid-19-begins)
+-Clean your hands often. Use soap and water, or an alcohol-based hand rub.
+-Maintain a safe distance from anyone who is coughing or sneezing.
+-Don’t touch your eyes, nose or mouth.
+-Cover your nose and mouth with your bent elbow or a tissue when you cough or sneeze.
+-Stay home if you feel unwell.
 
-This image is a tribute to you  on my part: [click here](https://www.google.com/search?q=chimpanzee+middle+finger&client=ubuntu&channel=fs&sxsrf=ALeKk00W2PVpRo0LYb_EDUaGX0_2qkk6pw:1587147428371&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiRg7L1iPDoAhWSIbcAHUexDEkQ_AUoAXoECAwQAw&biw=1533&bih=771#imgrc=NRh5lhjKbEI5BM)
+
+*To know more,*
+Press this link: [Learn more on:](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=17&cad=rja&uact=8&ved=2ahUKEwjBo4-LkvDoAhXkyjgGHUpBDgwQhtgEMBB6BAgMEA0&url=https%3A%2F%2Fwww.who.int%2Femergencies%2Fdiseases%2Fnovel-coronavirus-2019%2Fadvice-for-public&usg=AOvVaw2lxsUcjGdQQeraHDLFP36O)
+
+Video link: [click here](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=17&cad=rja&uact=8&ved=2ahUKEwjBo4-LkvDoAhXkyjgGHUpBDgwQhtgEMBB6BAgMEAw&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D1APwq1df6Mw&usg=AOvVaw2VDU1Wr8gg1Ox4vE4CVcEF)
