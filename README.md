@@ -1,5 +1,3 @@
-# BREAKING NEWS
-
 ## Coronavirus Live Updates ####(17/04/2020 00:27:51)
 
 The number of **confirmed** cases:*22,04,511*
